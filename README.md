@@ -11,8 +11,8 @@
 
 <br>
 
-### :rocket: Tecnologias usadas
-Este projeto foi desenvolvido com as seguintes tecnologias:
+### :rocket: Technologies used
+This project was developed with the following technologies:
 - [Node.js](https://nodejs.org/en/)
   - [Express](https://expressjs.com/pt-br/)
   - [Knex](http://knexjs.org/)
@@ -20,21 +20,18 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [React Native](https://reactnative.dev/)
 
 
-### :computer: Projeto
+### :computer: Project
 
-<b>Be the Hero</b> é um projeto que visa conectar <b>ONGS</b> e pessoas interessadas em ajudar financeiramente casos de cada <b>ONG</b>.
+<b>Be the Hero</b> is a project that aims to connect <b>ONGS</b> and people interested in help financially cases of each <b>ONG</b>.
 
-### :repeat: Como contribuir
+### :repeat: How to contribute
 
-- Faça um fork deste repositório;
-- Crie uma branch: `git checkout -b minha-branch`
-- Faça um commit com suas mudanças: `git commit -m 'feat: Minha nova feature'`
-- Push a sua branch: `git push origin minha-branch`
+- Fork this repository;
+- Create a branch: `git checkout -b my-branch`
+- Make a commit with yours changes: `git commit -m 'feat: My new feature'`
+- Push your branch: `git push origin my-branch`
+- Create pull request;
 
-### :memo: Licença
+### :memo: License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ❤️ by Bruno Cabral e auxílio do <b>Grande</b> [Diego Fernandes](https://github.com/diego3g)
+The project is licensed under MIT. See [LICENSE](LICENSE.md) file for the full license.
