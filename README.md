@@ -1,6 +1,6 @@
 <h4 align="center">
-<img src="./assets/heroes.png" width="250px" /><br>
-<img src="./assets/logo.svg" width="150px" /><br>
+<img src="./frontend/src/assets/heroes.png" width="250px" /><br>
+<img src="./frontend/src/assets/logo.svg" width="150px" /><br>
 </h4>
 <p align="center">
   <a href="https://rocketseat.com.br">
