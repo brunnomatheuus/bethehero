@@ -24,7 +24,28 @@ This project was developed with the following technologies:
 
 <b>Be the Hero</b> is a project that aims to connect <b>ONGS</b> and people interested in help financially cases of each <b>ONG</b>.
 
-### :repeat: How to contribute
+### :boom: Results
+- #### Register Screen
+<p align="center">
+  <img src="./images/register.png" width="600px" align="center"/><br>
+</p>
+
+- #### Logon Screen
+<p align="center">
+  <img src="./images/logon.png" width="600px" align="center"/><br>
+</p>
+
+- #### Incidents Screen
+<p align="center">
+  <img src="./images/incidents.png" width="600px" align="center"/><br>
+</p>
+
+- #### New Incident Screen
+<p align="center">
+  <img src="./images/new_incident.png" width="600px" align="center"/><br>
+</p>
+
+### - :repeat: How to contribute
 
 - Fork this repository;
 - Create a branch: `git checkout -b my-branch`
